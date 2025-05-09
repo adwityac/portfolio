@@ -1,19 +1,19 @@
 ---
-title: 'Rock Paper Scissors Game'
-description: 'Rock Paper Scissors game made by using Python.'
+title: 'Disease Subtype Classification for Breast Cancer Detection'
+description: 'A Flask based web tool.'
 image:
-    url: '/rockpapersci.gif'
+    url: '/breastcan.gif'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/rockpaper.png'
+    url: '/b1.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/rock1.jpg'
+    url: '/b2.png'
     alt: 'second image of your project.'
 platform: CLI
-stack: Python
-website: https://github.com/adwityac/Rock-Paper-Scissors-Game
-github: https://github.com/adwityac/Rock-Paper-Scissors-Game
+stack: Flask,HTML,CSS,JS
+website: https://github.com/adwityac/Slime-Mould-Algorithm-for-Breast-Cancer-Disease-Subtype-Classification-Using-Multiomics-Data
+github: https://github.com/adwityac/Slime-Mould-Algorithm-for-Breast-Cancer-Disease-Subtype-Classification-Using-Multiomics-Data
 ---
 
-The user competes against the computer, which randomly selects between rock, paper, and scissors. The game continues until the user decides to quit by entering "Q." It keeps track of the user's and computer's wins, and displays the final scores when the game ends.
+This project presents an intelligent web-based tool for classifying breast cancer subtypes based on multiomics data using advanced optimization algorithms. The core objective is to enhance classification performance through Slime Mould Algorithm (SMA)-based feature selection, and compare its performance against Genetic Algorithm (GA) and Particle Swarm Optimization (PSO) using Random Forest and SVM classifiers.
